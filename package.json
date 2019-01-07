@@ -2,7 +2,7 @@
   "name": "weather_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://missaraquel.github.io/weather_app", 
+  "homepage": "http://missaraquel.github.io/weather_app/", 
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^16.6.3",
